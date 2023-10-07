@@ -54,6 +54,16 @@ pip install safe_print_utils
 
 ## Usage
 
+You can import the package like this:
+```python
+from safe_print_utils import safe_print, error_info, replace_invalid_utf8_characters
+```
+
+Or if you want to import all functions directly:
+```python
+from safe_print_utils import *
+```
+
 ### 1. `safe_print`
 
 #### Description
