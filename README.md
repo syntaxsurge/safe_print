@@ -49,7 +49,7 @@ The utility defines three main functions:
 ### Installing with pip
 Since the package is available on PyPI, you can install it using pip with the following command:
 ```bash
-pip install safe_print
+pip install safe_print_utils
 ```
 
 ## Usage

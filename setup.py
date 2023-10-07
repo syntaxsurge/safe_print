@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="safe_print",
+    name="safe_print_utils",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
@@ -13,7 +13,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/syntaxsurge/safe_print",
+    url="https://github.com/syntaxsurge/safe_print_utils",  # Update the repository name as well if needed
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

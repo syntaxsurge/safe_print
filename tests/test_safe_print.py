@@ -1,7 +1,7 @@
 import io
 import unittest
 from contextlib import redirect_stdout
-from safe_print_package.safe_print.safe_print import *
+from safe_print_package.safe_print_utils.safe_print_utils import *
 
 
 class TestSafePrintFunction(unittest.TestCase):
