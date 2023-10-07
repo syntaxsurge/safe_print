@@ -1,4 +1,4 @@
-# Safe Print Logging Utility
+# Safe Print Logging Utilities
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -24,9 +24,9 @@
 
 ## Overview
 
-The Safe Print Logging Utility is a Python script providing enhanced printing functionality with colorful formatting, logging capability, and handling of UTF-8 encoding issues across various data types. 
+The Safe Print Logging Utilities is a Python script providing enhanced printing functionality with colorful formatting, logging capability, and handling of UTF-8 encoding issues across various data types. 
 
-The utility defines three main functions:
+The Utilities define three main functions:
 - `safe_print`: Augments print functionality.
 - `error_info`: Logs detailed error information.
 - `replace_invalid_utf8_characters`: Mitigates issues with invalid UTF-8 characters.
