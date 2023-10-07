@@ -1,9 +1,11 @@
 # .gitignore
 
 # Byte-compiled / optimized / DLL files
-__pycache__/
 *.py[cod]
 *$py.class
+
+# Ignore __pycache__ directories in all directories
+**/__pycache__/
 
 # C extensions
 *.so
